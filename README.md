@@ -18,5 +18,10 @@
     Un ejemplo de es 'Pomofocus' : https://pomofocus.io/
 
     Librerias Utilizadas: 'Animate.css' : https://animate.style/#usage.
+    
 
+1) Agregamos el tiempo en minutos, en este caso aplique 1 minuto y 1 minuto de descanso. Esperamos que suene la campanita y vemos que nos da un break, le aplicamos y nos da un minuto de descanso. 
+![capture1](https://user-images.githubusercontent.com/107267140/173119978-d51d10c0-18bd-46b1-b3a8-fad1150466f6.png)
 
+2) Agregamos el tiempo en minutos, en este caso aplique 1 minuto.
+![capture2](https://user-images.githubusercontent.com/107267140/173119991-f4ceb7c1-424c-46ba-8e29-c2d0d5e3e4d7.png)
