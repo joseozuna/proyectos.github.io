@@ -52,7 +52,7 @@ function decremenT() {
       localStorage.setItem("btn", "break");
     } else {
       startBtn.classList.remove("break");
-      startBtn.textContent = "start focus";
+      startBtn.textContent = "Empezar de nuevo";
       localStorage.setItem("btn", "focus");
     }
     startBtn.style.transform = "scale(1)";
