@@ -19,7 +19,7 @@
 
     Librerias Utilizadas: 'Animate.css' : https://animate.style/#usage.
     
-Video Demostracion
+    Video Demostracion:
 https://user-images.githubusercontent.com/107267140/173125878-9402e319-65f8-4ad2-b1af-d14b7b66e84f.mp4
 
 
